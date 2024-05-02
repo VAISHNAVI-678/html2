@@ -1,0 +1,18 @@
+.main{
+    background-color: aquamarine;
+    height: 500px;
+    width: 100%;
+    display: inline;
+}
+.box{
+    height: 100px;
+    width: 50%;
+    background-color: blueviolet;
+    border: 20px solid chartreuse;
+}
+.second{
+    visibility: hidden;
+}
+.third{
+    display: block;
+}
